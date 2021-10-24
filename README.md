@@ -7,7 +7,7 @@
 
 ## 科技
 
- - [hackernewsletter](https://hackernewsletter.com/) 每周发布一份关于创业、技术、编程等方面的 newsletter。目前已有 60000 多个用户订阅。
+ - [hackernewsletter](https://hackernewsletter.com/) 每周发布一份关于创业、技术、编程等方面的文章。目前已有 60000 多个用户订阅。
  - [科技爱好者周刊](https://github.com/ruanyf/weekly) 从 2018 年初开始发布，记录每周值得分享的科技内容，周五发布。个人觉得是中文科技 Newsletter 最好之一，最喜欢的板块是「本周话题」。
 
 

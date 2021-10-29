@@ -6,12 +6,12 @@
 同时欢迎自荐、推荐你觉得不错的 Newsletter，请点击这里[提交 issue](https://github.com/chasays/newsletter-list/issues)！
 
 写作 Newsletter 工具或者平台，排名不分先后。
-- [substack](https://substack.com/) "Start a paid newsletter"，比较成功的一个 Newsletter 平台
-- [getrevue](https://www.getrevue.co/) An editorial newsletter tool for writers and publishers
+- [Substack](https://substack.com/) Start a paid newsletter，国外比较成功的一个 Newsletter 平台
+- [Getrevue](https://www.getrevue.co/) An editorial newsletter tool for writers and publishers
 - [Hedwig](https://hedwig.pub) 一个简单可靠的邮件 Newsletter 创作平台，邀请码 `hedwigpub`
 - [知园](https://zhiy.cc/) 取自一个小众概念“数字花园”
 - [竹白](https://zhubai.love/) 取自一个小众概念“数字花园”
-- [github.io](https://github.io/) Github 旗下的免费博客，但是不能用邮件进行简单的订阅
+- [Github Pages](https://github.io/) Github 旗下的免费博客，但是不能用邮件进行简单的订阅
 - [语雀](https://www.yuque.com/) 新一代云端知识库，也不支持邮件订阅
 
 ---

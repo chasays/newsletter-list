@@ -22,6 +22,8 @@
 - [The Quibbler](https://thequibbler.zhubai.love/) 这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。
 - [商业内观](https://if.zoepi.online)一份穿梭在人类用思维构建的商业世界里，却一心想去往 2500 年前轴心时代的Newsletter。
 - [海上星光产品通讯](https://hsxg.ghost.io/) 关注产品、设计、科技的整理和思考。
+- [DEX 周刊](https://newsletter.dex.group/) 关于产品、设计、前端、软件等内容的精华资讯邮件列表。
+- [湾区日报](https://wanqu.co/) 关注创业与技术，每天推送 3~5 篇优质英文文章。
 
 ---
 ## 成长和思考

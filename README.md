@@ -13,6 +13,7 @@
 - [竹白](https://zhubai.love/) 直达订阅者，没有中间商控制私有流量
 - [Github Pages](https://github.io/) Github 旗下的免费博客，但是不能用邮件进行简单的订阅
 - [语雀](https://www.yuque.com/) 新一代云端知识库，也不支持邮件订阅
+- [Convertkit](https://convertkit.com/) Connect with your fans, foster your community, and earn a living online with the only marketing platform built for creators, by creators.
 
 ---
 
@@ -28,6 +29,8 @@
 ---
 ## 成长和思考
 
+- [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1) 超过 100万 用户订阅，3 个简短思考、2 个引用、 1 个思考问题
+- [DAVID PERELL](https://perell.com/newsletter/) 超过 4万 用户订阅，Monday Musings 和 Friday Finds，有读者反馈，有趣而且是从未见过的内容。
 - [事不过三](https://via.hedwig.pub/) 每周三推送，文章分为 3 个板块：认识自己，好好学习，好好生活。截止到 2021 年 10 月，已经推送了 46 期了。
 - [小叉的梦呓](https://chasays.hedwig.pub/) 毛遂自荐，每周更新一次，主要是对过去一周的感悟，分为 4 个部分。
 - [王龙行](https://zhiy.cc/long) 创业的经验总结、对商业的思考、关注的创业故事与启发、想到的一些创新机会、新发现的产品。
@@ -43,7 +46,7 @@
 - [知更鸟文档](https://robin.hedwig.pub) 一份关于「 Thought」，「 Tools」和「Creativity」的所见分享。
 - [光明王](https://lordoflight.substack.com) 加入你的网上邻居，一起阅读新闻，一起奇思妙想，一起欢度时光。
 - [熊言熊语](https://podcast.kaopubear.top) 关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。聊学习工作、聊科研科普。
-- [二十二](https://weichen.blog/22/) 探寻如何更好地生活。
+- [生活奇旅](https://weichen.blog/22/) 探寻如何更好地生活。
 - [声波微步](https://voiceshare.hedwig.pub/) 有关泛社会议题的观察、解读和生活方式分享。
 - [反向连接](https://backwarddots.hedwig.pub/) You only connect dots by looking backward.
 - [独来读趣](https://molly.hedwig.pub) read to the infinity and beyond.
@@ -54,6 +57,7 @@
 ---
 ## 工具和效率
 
+- [Ali Abdaal](https://aliabdaal.com/newsletter/) 主理人是一名医生，超过 12 万用户订阅，分享可行的生产力提升，实际的生活建议，高品质的见解。
 - [地心引力](https://walnut.hedwig.pub/) 关注效率工具与生活方式，一起脱离重力束缚。
 - [happy letter](https://xiao.do/) 每个工作日发送简短实用的效率方法，健康习惯，思维模式。订阅人数已超 2000。
 - [Sustainable Curiosity](https://zhiy.cc/mccc) 日间碎片化阅读的批注和观点的集散地，关注领域：互联网、商业纪实、效率工具和数字化管理提升。

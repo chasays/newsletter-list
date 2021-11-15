@@ -10,7 +10,7 @@
 - [Getrevue](https://www.getrevue.co/) An editorial newsletter tool for writers and publishers
 - [Hedwig](https://hedwig.pub) 一个简单可靠的邮件 Newsletter 创作平台，邀请码 `hedwigpub`
 - [知园](https://zhiy.cc/) 取自一个小众概念“数字花园”
-- [竹白](https://zhubai.love/) 直达订阅者，没有中间商控制私有流量
+- [竹白](https://zhubai.love/) 支持多种订阅方式的 newsletter 平台
 - [Github Pages](https://github.io/) Github 旗下的免费博客，但是不能用邮件进行简单的订阅
 - [语雀](https://www.yuque.com/) 新一代云端知识库，也不支持邮件订阅
 - [Convertkit](https://convertkit.com/) Connect with your fans, foster your community, and earn a living online with the only marketing platform built for creators, by creators.

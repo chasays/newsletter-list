@@ -78,7 +78,7 @@
 - [刻意体会](https://kyth.hedwig.pub/) Time takes the time time takes.
 - [Steve说每周通讯](https://steve.hedwig.pub/) 内容来自Steve和朋友们每周精选的优质内容。
 - [苔原通信](https://mailchi.mp/92eacdb6baf1/20211028?e=55a5f54264) 不定期群发的情书，每月不会少于一期。。
-
+- [产品沉思录](https://index.pmthinking.com) 每周精选四篇关于互联网产品的优质内容集合，并附上独立的观点，以期为你拓展视野的边界。
 
 
 ---

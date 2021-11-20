@@ -81,7 +81,7 @@
 - [Steve说每周通讯](https://steve.hedwig.pub/) 内容来自Steve和朋友们每周精选的优质内容。
 - [苔原通信](https://mailchi.mp/92eacdb6baf1/20211028?e=55a5f54264) 不定期群发的情书，每月不会少于一期。。
 - [Λ-Reading](https://www.notion.so/rizi/Reading-d77be691eb244db0b8add646b6ef7f3b) （兰布达阅读）是一份智识阅读通讯（Newsletter），每周 1-2 期。(包含免费和付费)
-
+- [逆流Upstream](https://zhiy.cc/upstream)  专注观察中美流媒体与创作者经济赛道。每周/隔周原创更新，解析1个创业公司、推荐2档优质节目、传播3个行业观点。
 ---
 
 

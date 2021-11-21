@@ -32,10 +32,10 @@
 - [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1) 超过 100万 用户订阅，3 个简短思考、2 个引用、 1 个思考问题
 - [DAVID PERELL](https://perell.com/newsletter/) 超过 4万 用户订阅，Monday Musings 和 Friday Finds，有读者反馈，有趣而且是从未见过的内容。
 - [事不过三](https://via.hedwig.pub/) 每周三推送，文章分为 3 个板块：认识自己，好好学习，好好生活。截止到 2021 年 10 月，已经推送了 46 期了。
-- [小叉的梦呓](https://chasays.hedwig.pub/) 毛遂自荐，每周更新一次，主要是对过去一周的感悟，分为 4 个部分。
+- [小叉的梦呓](https://chasays.hedwig.pub/) 毛遂自荐，每周更新一次关于科技、思考、成长方面的 Newsletter，以及对过去一周的感悟。
 - [王龙行](https://zhiy.cc/long) 创业的经验总结、对商业的思考、关注的创业故事与启发、想到的一些创新机会、新发现的产品。
 - [城堡阅读](https://zhiy.cc/cbyd) 分享个体见闻，探索内心宇宙。
-- [Yestoday](https://yestoday.substack.com/) 投资即阅读。newsletter 月更，主要是一些阅读笔记和思考。微信公众号同名。
+- [Yestoday](https://yestoday.zhubai.love/) 投资即阅读。newsletter 月更，主要是一些阅读笔记和思考。微信公众号同名。
 - [一方天地](http://newsletter.emmmme.com) 在这里，我会分享一些的阅读与思考。
 - [类地行星](https://www.yuque.com/aiyouzhanglei/ldxx) 会有一个世界，和地球有一点像，也有一点不像。
 - [小胖’s Daily Note](http://littlefat.cn/) 记录我日常发现的一些东西。	

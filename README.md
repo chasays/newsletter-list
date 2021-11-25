@@ -53,8 +53,9 @@
 - [反向连接](https://backwarddots.hedwig.pub/) You only connect dots by looking backward.
 - [独来读趣](https://molly.hedwig.pub) read to the infinity and beyond.
 - [李雪含](https://zhiy.cc/lixuehan) 万物之中希望最美，万物之中确定性最贵。
-- [世俗的理想主义青年](https://zhiy.cc/pmxusiyu) B端产品经理。专注于探讨与输出 Martech 营销技术、泛商业领域以及流行文化的日常产品思考。
 - [元朔](https://zhiy.cc/yyds) 分享深度的职场经验、职场技巧和公文写作干货等知识，希望用我所知，陪你前行。
+- [世俗的理想主义青年](https://pmxusiyu.zhubai.love/) 专注于探讨与输出Martech营销技术、泛商业领域以及流行文化的日常产品思考。
+
 
 ---
 ## 工具和效率
@@ -82,6 +83,8 @@
 - [苔原通信](https://mailchi.mp/92eacdb6baf1/20211028?e=55a5f54264) 不定期群发的情书，每月不会少于一期。。
 - [Λ-Reading](https://www.notion.so/rizi/Reading-d77be691eb244db0b8add646b6ef7f3b) （兰布达阅读）是一份智识阅读通讯（Newsletter），每周 1-2 期。(包含免费和付费)
 - [逆流Upstream](https://zhiy.cc/upstream)  专注观察中美流媒体与创作者经济赛道。每周/隔周原创更新，解析1个创业公司、推荐2档优质节目、传播3个行业观点。
+- [屋瓦猫周刊](https://www.yuque.com/liushuaiiu/cat) 有猫、喜欢拍照，觉得生活要有趣，每周一更。
+
 ---
 
 

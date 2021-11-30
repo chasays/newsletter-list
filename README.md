@@ -55,6 +55,7 @@
 - [李雪含](https://zhiy.cc/lixuehan) 万物之中希望最美，万物之中确定性最贵。
 - [元朔](https://zhiy.cc/yyds) 分享深度的职场经验、职场技巧和公文写作干货等知识，希望用我所知，陪你前行。
 - [世俗的理想主义青年](https://pmxusiyu.zhubai.love/) 专注于探讨与输出Martech营销技术、泛商业领域以及流行文化的日常产品思考。
+- [Futurow 未来派](https://futurow.zhubai.love/) 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。
 
 
 ---

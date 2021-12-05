@@ -43,7 +43,7 @@
 - [小胖’s Daily Note](http://littlefat.cn/) 记录我日常发现的一些东西。	
 - [白宇极](https://zhiy.cc/baiyuji) 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。	
 - [其思秒想](https://www.getrevue.co/profile/yolo365) 记录过去一周间，看到的让我有所触动和有趣的内容信息，以及体验发现的书/影/好物。
-- [自说自话](https://landisland.hedwig.pub)	一周内的书影音，以及想法。	
+- [自说自话](https://landisland.zhubai.love/)	没有记录就没有发生，而记录本身就已是一种反抗。	
 - [社群成长札记](https://zhiy.cc/communitynote) 这是我建立自己社群的札记，作为自己复盘的地方，让这些灵灵闪闪的碎片连接成片	
 - [知更鸟文档](https://robin.hedwig.pub) 一份关于「 Thought」，「 Tools」和「Creativity」的所见分享。
 - [光明王](https://lordoflight.substack.com) 加入你的网上邻居，一起阅读新闻，一起奇思妙想，一起欢度时光。

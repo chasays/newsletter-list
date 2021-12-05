@@ -85,6 +85,7 @@
 - [Λ-Reading](https://www.notion.so/rizi/Reading-d77be691eb244db0b8add646b6ef7f3b) （兰布达阅读）是一份智识阅读通讯（Newsletter），每周 1-2 期。(包含免费和付费)
 - [逆流Upstream](https://zhiy.cc/upstream)  专注观察中美流媒体与创作者经济赛道。每周/隔周原创更新，解析1个创业公司、推荐2档优质节目、传播3个行业观点。
 - [屋瓦猫周刊](https://www.yuque.com/liushuaiiu/cat) 有猫、喜欢拍照，觉得生活要有趣，每周一更。
+- [一份全面的RSS和Newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 和 [中文Podcast](https://github.com/alaskasquirrel/Chinese-Podcasts) 。
 
 ---
 

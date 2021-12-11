@@ -8,11 +8,9 @@
 写作 Newsletter 工具或者平台，排名不分先后。
 - [Substack](https://substack.com/) Start a paid newsletter，国外比较成功的一个 Newsletter 平台
 - [Getrevue](https://www.getrevue.co/) An editorial newsletter tool for writers and publishers
-- [Hedwig](https://hedwig.pub) 一个简单可靠的邮件 Newsletter 创作平台，邀请码 `hedwigpub`
 - [知园](https://zhiy.cc/) 取自一个小众概念“数字花园”
 - [竹白](https://zhubai.love/) 支持多种订阅方式的 newsletter 平台，且支持微信订阅。
 - [Github Pages](https://github.io/) Github 旗下的免费博客，但是不能用邮件进行简单的订阅
-- [语雀](https://www.yuque.com/) 新一代云端知识库，也不支持邮件订阅
 - [Convertkit](https://convertkit.com/) Connect with your fans, foster your community, and earn a living online with the only marketing platform built for creators, by creators.
 
 ---
@@ -26,7 +24,6 @@
 - [DEX 周刊](https://newsletter.dex.group/) 关于产品、设计、前端、软件等内容的精华资讯邮件列表。
 - [湾区日报](https://wanqu.co/) 关注创业与技术，每天推送 3~5 篇优质英文文章。
 - [产品沉思录](https://index.pmthinking.com) 关注互联网产品的设计与运营等内容，每周精选四篇推荐，并附上独立的观点，以期为你拓展视野的边界。
-- [酷壳](https://www.coolshell.cn/) 酷壳，享受编程和技术所带来的快乐。
 
 ---
 ## 成长和思考
@@ -86,6 +83,17 @@
 - [逆流Upstream](https://zhiy.cc/upstream)  专注观察中美流媒体与创作者经济赛道。每周/隔周原创更新，解析1个创业公司、推荐2档优质节目、传播3个行业观点。
 - [屋瓦猫周刊](https://www.yuque.com/liushuaiiu/cat) 有猫、喜欢拍照，觉得生活要有趣，每周一更。
 - [一份全面的RSS和Newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 和 [中文Podcast](https://github.com/alaskasquirrel/Chinese-Podcasts) 。
+
+---
+
+## 博客推荐
+
+增加一个分类，发现有部分网友推荐了一些不错的博客，但是不是Newsletter类的，新开一个分类放到这里。
+
+- [酷壳](https://www.coolshell.cn/) 酷壳，享受编程和技术所带来的快乐。
+- [大邓和他的PYTHON](https://hidadeng.github.io/blog/) 作者自荐，本站不定期更新Python数据分析内容。
+- [编程技术 hellogithub](https://hellogithub.com/) 作者自荐，分享 GitHub 上有趣、入门级的开源项目 
+
 
 ---
 

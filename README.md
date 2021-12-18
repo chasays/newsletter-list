@@ -24,6 +24,8 @@
 - [DEX 周刊](https://newsletter.dex.group/) 关于产品、设计、前端、软件等内容的精华资讯邮件列表。
 - [湾区日报](https://wanqu.co/) 关注创业与技术，每天推送 3~5 篇优质英文文章。
 - [产品沉思录](https://index.pmthinking.com) 关注互联网产品的设计与运营等内容，每周精选四篇推荐，并附上独立的观点，以期为你拓展视野的边界。
+- [小叉的梦呓](https://chasays.zhubai.love/) 毛遂自荐，每周六更新一次关于科技、思考、成长方面的 Newsletter，以及对过去一周的感悟。
+- [优质网站同好者周刊 - 倾城之链](https://github.com/nicejade/nicelinks-weekly) 旨在云集全球优秀网站，探索互联网中更广阔的世界。
 
 ---
 ## 成长和思考
@@ -31,7 +33,6 @@
 - [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1) 超过 100万 用户订阅，3 个简短思考、2 个引用、 1 个思考问题
 - [DAVID PERELL](https://perell.com/newsletter/) 超过 4万 用户订阅，Monday Musings 和 Friday Finds，有读者反馈，有趣而且是从未见过的内容。
 - [事不过三](https://via.hedwig.pub/) 每周三推送，文章分为 3 个板块：认识自己，好好学习，好好生活。截止到 2021 年 10 月，已经推送了 46 期了。
-- [小叉的梦呓](https://chasays.zhubai.love/) 毛遂自荐，每周更新一次关于科技、思考、成长方面的 Newsletter，以及对过去一周的感悟。
 - [王龙行](https://zhiy.cc/long) 创业的经验总结、对商业的思考、关注的创业故事与启发、想到的一些创新机会、新发现的产品。
 - [城堡阅读](https://zhiy.cc/cbyd) 分享个体见闻，探索内心宇宙。
 - [Yestoday](https://yestoday.zhubai.love/) 投资即阅读。newsletter 月更，主要是一些阅读笔记和思考。微信公众号同名。

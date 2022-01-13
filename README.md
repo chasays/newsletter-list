@@ -10,22 +10,20 @@
 - [Getrevue](https://www.getrevue.co/) An editorial newsletter tool for writers and publishers
 - [知园](https://zhiy.cc/) 取自一个小众概念“数字花园”
 - [竹白](https://zhubai.love/) 支持多种订阅方式的 newsletter 平台，且支持微信订阅。
-- [Github Pages](https://github.io/) Github 旗下的免费博客，但是不能用邮件进行简单的订阅
-- [Convertkit](https://convertkit.com/) Connect with your fans, foster your community, and earn a living online with the only marketing platform built for creators, by creators.
-
 ---
 
 ## 互联网和科技
 - [科技爱好者周刊](https://github.com/ruanyf/weekly) 从 2018 年初开始发布，记录每周值得分享的科技内容，周五发布。个人觉得是中文科技 Newsletter 最好之一，最喜欢的板块是「本周话题」。
 - [hackernewsletter](https://hackernewsletter.com/) 每周发布一份关于创业、技术、编程等方面的文章。目前已有 60000 多个用户订阅。
-- [The Quibbler](https://thequibbler.zhubai.love/) 这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。
 - [商业内观](https://if.zoepi.online)一份穿梭在人类用思维构建的商业世界里，却一心想去往 2500 年前轴心时代的Newsletter。
 - [海上星光产品通讯](https://hsxg.ghost.io/) 关注产品、设计、科技的整理和思考。
 - [DEX 周刊](https://newsletter.dex.group/) 关于产品、设计、前端、软件等内容的精华资讯邮件列表。
-- [湾区日报](https://wanqu.co/) 关注创业与技术，每天推送 3~5 篇优质英文文章。
+- [湾区日报](https://wanqu.substack.com/) 关注创业与技术，每天推送 3~5 篇优质英文文章。
 - [产品沉思录](https://index.pmthinking.com) 关注互联网产品的设计与运营等内容，每周精选四篇推荐，并附上独立的观点，以期为你拓展视野的边界。
 - [小叉的梦呓](https://chasays.zhubai.love/) 毛遂自荐，每周六更新一次关于科技、思考、成长方面的 Newsletter，以及对过去一周的感悟。
 - [优质网站同好者周刊 - 倾城之链](https://github.com/nicejade/nicelinks-weekly) 旨在云集全球优秀网站，探索互联网中更广阔的世界。
+- [The Quibbler](https://thequibbler.zhubai.love/) 这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。
+
 
 ---
 ## 成长和思考
@@ -36,22 +34,15 @@
 - [王龙行](https://zhiy.cc/long) 创业的经验总结、对商业的思考、关注的创业故事与启发、想到的一些创新机会、新发现的产品。
 - [城堡阅读](https://zhiy.cc/cbyd) 分享个体见闻，探索内心宇宙。
 - [Yestoday](https://yestoday.zhubai.love/) 投资即阅读。newsletter 月更，主要是一些阅读笔记和思考。微信公众号同名。
-- [一方天地](http://newsletter.emmmme.com) 在这里，我会分享一些的阅读与思考。
 - [类地行星](https://www.yuque.com/aiyouzhanglei/ldxx) 会有一个世界，和地球有一点像，也有一点不像。
 - [小胖’s Daily Note](http://littlefat.cn/) 记录我日常发现的一些东西。	
 - [白宇极](https://zhiy.cc/baiyuji) 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。	
-- [其思秒想](https://www.getrevue.co/profile/yolo365) 记录过去一周间，看到的让我有所触动和有趣的内容信息，以及体验发现的书/影/好物。
 - [自说自话](https://landisland.zhubai.love/)	没有记录就没有发生，而记录本身就已是一种反抗。	
 - [社群成长札记](https://zhiy.cc/communitynote) 这是我建立自己社群的札记，作为自己复盘的地方，让这些灵灵闪闪的碎片连接成片	
-- [知更鸟文档](https://robin.hedwig.pub) 一份关于「 Thought」，「 Tools」和「Creativity」的所见分享。
 - [光明王](https://lordoflight.substack.com) 加入你的网上邻居，一起阅读新闻，一起奇思妙想，一起欢度时光。
-- [熊言熊语](https://podcast.kaopubear.top) 关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。聊学习工作、聊科研科普。
 - [生活奇旅](https://weichen.blog/22/) 探寻如何更好地生活。
 - [声波微步](https://voiceshare.hedwig.pub/) 有关泛社会议题的观察、解读和生活方式分享。
-- [反向连接](https://backwarddots.hedwig.pub/) You only connect dots by looking backward.
 - [独来读趣](https://molly.hedwig.pub) read to the infinity and beyond.
-- [李雪含](https://zhiy.cc/lixuehan) 万物之中希望最美，万物之中确定性最贵。
-- [元朔](https://zhiy.cc/yyds) 分享深度的职场经验、职场技巧和公文写作干货等知识，希望用我所知，陪你前行。
 - [世俗的理想主义青年](https://pmxusiyu.zhubai.love/) 专注于探讨与输出Martech营销技术、泛商业领域以及流行文化的日常产品思考。
 - [Futurow 未来派](https://futurow.zhubai.love/) 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。
 
@@ -84,6 +75,7 @@
 - [逆流Upstream](https://zhiy.cc/upstream)  专注观察中美流媒体与创作者经济赛道。每周/隔周原创更新，解析1个创业公司、推荐2档优质节目、传播3个行业观点。
 - [屋瓦猫周刊](https://www.yuque.com/liushuaiiu/cat) 有猫、喜欢拍照，觉得生活要有趣，每周一更。
 - [一份全面的RSS和Newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 和 [中文Podcast](https://github.com/alaskasquirrel/Chinese-Podcasts) 。
+- [我来帮你刷微博](https://papyrus.so/@kqh)  收集整理平時看到的文章報導，讓碎片閱讀稍微有點意義的嘗試
 
 ---
 

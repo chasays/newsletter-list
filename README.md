@@ -45,6 +45,7 @@
 - [独来读趣](https://molly.hedwig.pub) read to the infinity and beyond.
 - [世俗的理想主义青年](https://pmxusiyu.zhubai.love/) 专注于探讨与输出Martech营销技术、泛商业领域以及流行文化的日常产品思考。
 - [Futurow 未来派](https://futurow.zhubai.love/) 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。
+- [反向链接](https://backwarddots.zhubai.love) You only connect the dots by looking backward.
 
 
 ---

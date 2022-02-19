@@ -20,7 +20,7 @@
 - [DEX 周刊](https://newsletter.dex.group/) 关于产品、设计、前端、软件等内容的精华资讯邮件列表。
 - [湾区日报](https://wanqu.substack.com/) 关注创业与技术，每天推送 3~5 篇优质英文文章。
 - [产品沉思录](https://index.pmthinking.com) 关注互联网产品的设计与运营等内容，每周精选四篇推荐，并附上独立的观点，以期为你拓展视野的边界。
-- [小叉的梦呓](https://chasays.zhubai.love/) 毛遂自荐，每周六更新一次关于科技、思考、成长方面的 Newsletter，以及对过去一周的感悟。
+- [察说花园](https://chasays.zhubai.love/) 毛遂自荐，每周六更新一次关于科技、思考、成长方面的 Newsletter，以及对过去一周的感悟。
 - [优质网站同好者周刊 - 倾城之链](https://github.com/nicejade/nicelinks-weekly) 旨在云集全球优秀网站，探索互联网中更广阔的世界。
 - [The Quibbler](https://thequibbler.zhubai.love/) 这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。
 

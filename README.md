@@ -56,6 +56,7 @@
 - [happy letter](https://xiao.do/) 每个工作日发送简短实用的效率方法，健康习惯，思维模式。订阅人数已超 2000。
 - [Sustainable Curiosity](https://zhiy.cc/mccc) 日间碎片化阅读的批注和观点的集散地，关注领域：互联网、商业纪实、效率工具和数字化管理提升。
 - [潦草学者](https://zhiy.cc/messy) 分享日常思考。长期关注互联网商业，效率工具。
+- [好工具周刊](https://discuss-cn.bestxtools.com/t/weekly) 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
 
 
 ---

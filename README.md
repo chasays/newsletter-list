@@ -79,6 +79,7 @@
 - [屋瓦猫周刊](https://www.yuque.com/liushuaiiu/cat) 有猫、喜欢拍照，觉得生活要有趣，每周一更。
 - [一份全面的RSS和Newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 和 [中文Podcast](https://github.com/alaskasquirrel/Chinese-Podcasts) 。
 - [我来帮你刷微博](https://papyrus.so/@kqh)  收集整理平時看到的文章報導，讓碎片閱讀稍微有點意義的嘗試
+- [工劳小报](https://newsletter.laborinfocn.com/) 关注当代打工人，双周发布工人、劳动相关动态、深度报道、评论的整理小报。
 
 ---
 

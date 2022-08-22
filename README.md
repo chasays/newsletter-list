@@ -46,6 +46,7 @@
 - [世俗的理想主义青年](https://pmxusiyu.zhubai.love/) 专注于探讨与输出Martech营销技术、泛商业领域以及流行文化的日常产品思考。
 - [Futurow 未来派](https://futurow.zhubai.love/) 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。
 - [反向链接](https://backwarddots.zhubai.love) You only connect the dots by looking backward.
+- [DecoHack周刊](https://decohack.zhubai.love/) 为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。
 
 
 ---
@@ -58,6 +59,9 @@
 - [潦草学者](https://zhiy.cc/messy) 分享日常思考。长期关注互联网商业，效率工具。
 - [好工具周刊](https://discuss-cn.bestxtools.com/t/weekly) 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
 - [野生架构师](https://www.getrevue.co/profile/lcomplete) 分享简短实用的效率方法、优质文章、编程知识、实用工具等，感谢你的阅读，目前每周更新。
+- [一人杂志](https://matsuri.zhubai.love/) 每周一更，目前写了16期。聊效率工具，也会天南海北地杂谈。介绍工具，分享新知，阐述洞见。
+
+
 
 
 ---

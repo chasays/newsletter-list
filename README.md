@@ -23,6 +23,8 @@
 - [察说花园](https://chasays.zhubai.love/) 毛遂自荐，每周六更新一次关于科技、思考、成长方面的 Newsletter，以及对过去一周的感悟。
 - [优质网站同好者周刊 - 倾城之链](https://github.com/nicejade/nicelinks-weekly) 旨在云集全球优秀网站，探索互联网中更广阔的世界。
 - [The Quibbler](https://thequibbler.zhubai.love/) 这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。
+- [互联网时代的搜商](https://search.zhubai.love/) 关于搜索技巧的种种，做一个互联网淘金者.
+- [机器文摘](https://niupitools.zhubai.love/) 定期分享我看到的有趣的内容（不一定是最新的，但是有意思），因为大部分都与机器有关，所以先叫它“机器文摘（MachineDigest）.
 
 
 ---

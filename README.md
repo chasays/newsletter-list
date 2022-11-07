@@ -18,7 +18,6 @@
 - [商业内观](https://if.zoepi.online)一份穿梭在人类用思维构建的商业世界里，却一心想去往 2500 年前轴心时代的Newsletter。
 - [海上星光产品通讯](https://hsxg.ghost.io/) 关注产品、设计、科技的整理和思考。
 - [DEX 周刊](https://newsletter.dex.group/) 关于产品、设计、前端、软件等内容的精华资讯邮件列表。
-- [湾区日报](https://wanqu.substack.com/) 关注创业与技术，每天推送 3~5 篇优质英文文章。
 - [产品沉思录](https://index.pmthinking.com) 关注互联网产品的设计与运营等内容，每周精选四篇推荐，并附上独立的观点，以期为你拓展视野的边界。
 - [察说花园](https://chasays.zhubai.love/) 毛遂自荐，每周六更新一次关于科技、思考、成长方面的 Newsletter，以及对过去一周的感悟。
 - [优质网站同好者周刊 - 倾城之链](https://github.com/nicejade/nicelinks-weekly) 旨在云集全球优秀网站，探索互联网中更广阔的世界。
@@ -34,20 +33,13 @@
 - [DAVID PERELL](https://perell.com/newsletter/) 超过 4万 用户订阅，Monday Musings 和 Friday Finds，有读者反馈，有趣而且是从未见过的内容。
 - [事不过三](https://via.hedwig.pub/) 每周三推送，文章分为 3 个板块：认识自己，好好学习，好好生活。截止到 2021 年 10 月，已经推送了 46 期了。
 - [王龙行](https://zhiy.cc/long) 创业的经验总结、对商业的思考、关注的创业故事与启发、想到的一些创新机会、新发现的产品。
-- [城堡阅读](https://zhiy.cc/cbyd) 分享个体见闻，探索内心宇宙。
 - [Yestoday](https://yestoday.zhubai.love/) 投资即阅读。newsletter 月更，主要是一些阅读笔记和思考。微信公众号同名。
 - [类地行星](https://www.yuque.com/aiyouzhanglei/ldxx) 会有一个世界，和地球有一点像，也有一点不像。
 - [小胖’s Daily Note](http://littlefat.cn/) 记录我日常发现的一些东西。	
 - [白宇极](https://zhiy.cc/baiyuji) 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。	
 - [自说自话](https://landisland.zhubai.love/)	没有记录就没有发生，而记录本身就已是一种反抗。	
-- [社群成长札记](https://zhiy.cc/communitynote) 这是我建立自己社群的札记，作为自己复盘的地方，让这些灵灵闪闪的碎片连接成片	
-- [光明王](https://lordoflight.substack.com) 加入你的网上邻居，一起阅读新闻，一起奇思妙想，一起欢度时光。
 - [生活奇旅](https://weichen.blog/22/) 探寻如何更好地生活。
-- [声波微步](https://voiceshare.hedwig.pub/) 有关泛社会议题的观察、解读和生活方式分享。
-- [独来读趣](https://molly.hedwig.pub) read to the infinity and beyond.
-- [世俗的理想主义青年](https://pmxusiyu.zhubai.love/) 专注于探讨与输出Martech营销技术、泛商业领域以及流行文化的日常产品思考。
 - [Futurow 未来派](https://futurow.zhubai.love/) 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。
-- [反向链接](https://backwarddots.zhubai.love) You only connect the dots by looking backward.
 - [DecoHack周刊](https://decohack.zhubai.love/) 为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。
 
 
@@ -60,9 +52,6 @@
 - [Sustainable Curiosity](https://zhiy.cc/mccc) 日间碎片化阅读的批注和观点的集散地，关注领域：互联网、商业纪实、效率工具和数字化管理提升。
 - [潦草学者](https://zhiy.cc/messy) 分享日常思考。长期关注互联网商业，效率工具。
 - [好工具周刊](https://discuss-cn.bestxtools.com/t/weekly) 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
-- [野生架构师](https://www.getrevue.co/profile/lcomplete) 分享简短实用的效率方法、优质文章、编程知识、实用工具等，感谢你的阅读，目前每周更新。
-- [一人杂志](https://matsuri.zhubai.love/) 每周一更，目前写了16期。聊效率工具，也会天南海北地杂谈。介绍工具，分享新知，阐述洞见。
-
 
 
 
@@ -70,18 +59,11 @@
 ##  多才多艺 Miscellaneous
 
 - [新闻实验室](http://newslab.info/) 主理人是方可成，作者是香港中文大学社会科学院新闻传播学院的一名助理教授，站在行业变动的前沿，把握媒体变革的脉搏。用学术眼光理解新闻传播现象背后的逻辑，并用平易的语言进行解释。
-- [推播助栏](https://enzochen.substack.com/) 每月推荐7集类型多样的播客节目，和你一起听见这个世界。
 - [Random Lab](https://random-lab.ghost.io/) 投资行业从业，内容包括商业观察、品牌出海、读书笔记，以及奢侈品行业二三事。
-- [唯理通讯](https://veritaschina.org/newsletter/) 推荐精选自互联网的深度文本。希望这些内容传播富有思考的声音，并促进订阅者对社会议题的关注。
-- [创投止观舍](https://zhiy.cc/zhiguan) 目前在大厂做投资，每天都有不同的故事和感悟。用心收集的、认真思考的，都应该被更多人看到。
-- [粼粼 Twinkle](https://zhiy.cc/twinkle) 与你抵达日常，拾起若隐若现的一闪一闪。这可能是一个提升感受力和创造力的内容计划。
 - [1000小食报](https://young.zhubai.love/) 从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志
 - [精选日报](https://zhiy.cc/daynews) 一文了解天下事。
-- [刻意体会](https://kyth.hedwig.pub/) Time takes the time time takes.
 - [Steve说每周通讯](https://steve.hedwig.pub/) 内容来自Steve和朋友们每周精选的优质内容。
-- [苔原通信](https://mailchi.mp/92eacdb6baf1/20211028?e=55a5f54264) 不定期群发的情书，每月不会少于一期。。
 - [Λ-Reading](https://www.notion.so/rizi/Reading-d77be691eb244db0b8add646b6ef7f3b) （兰布达阅读）是一份智识阅读通讯（Newsletter），每周 1-2 期。(包含免费和付费)
-- [逆流Upstream](https://zhiy.cc/upstream)  专注观察中美流媒体与创作者经济赛道。每周/隔周原创更新，解析1个创业公司、推荐2档优质节目、传播3个行业观点。
 - [屋瓦猫周刊](https://www.yuque.com/liushuaiiu/cat) 有猫、喜欢拍照，觉得生活要有趣，每周一更。
 - [一份全面的RSS和Newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 和 [中文Podcast](https://github.com/alaskasquirrel/Chinese-Podcasts) 。
 - [我来帮你刷微博](https://papyrus.so/@kqh)  收集整理平時看到的文章報導，讓碎片閱讀稍微有點意義的嘗試

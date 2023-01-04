@@ -7,7 +7,7 @@
 
 写作 Newsletter 工具或者平台，排名不分先后。
 - [Substack](https://substack.com/) Start a paid newsletter，国外比较成功的一个 Newsletter 平台
-- [Getrevue](https://www.getrevue.co/) An editorial newsletter tool for writers and publishers
+- [Getrevue](https://www.getrevue.co/) 已经宣布关站，详见 www.getrevue.co/app/offboard
 - [知园](https://zhiy.cc/) 取自一个小众概念“数字花园”
 - [竹白](https://zhubai.love/) 支持多种订阅方式的 newsletter 平台，且支持微信订阅。
 ---

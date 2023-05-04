@@ -3,7 +3,7 @@
 
 本文档不定期更新，碰到比较好的 Newsletter 就会加进来。
 
-同时欢迎自荐、推荐你觉得不错的 Newsletter，请点击这里[提交 issue](https://github.com/chasays/newsletter-list/issues)！
+同时欢迎自荐、推荐你觉得不错的 Newsletter，请点击这里[提交 issue 或者是 PR](https://github.com/chasays/newsletter-list/issues)！
 
 写作 Newsletter 工具或者平台，排名不分先后。
 - [Substack](https://substack.com/) Start a paid newsletter，国外比较成功的一个 Newsletter 平台
@@ -68,6 +68,7 @@
 - [一份全面的RSS和Newsletter](https://github.com/alaskasquirrel/Email-newsletter-RSS) 和 [中文Podcast](https://github.com/alaskasquirrel/Chinese-Podcasts) 。
 - [我来帮你刷微博](https://papyrus.so/@kqh)  收集整理平時看到的文章報導，讓碎片閱讀稍微有點意義的嘗試
 - [工劳小报](https://newsletter.laborinfocn.com/) 关注当代打工人，双周发布工人、劳动相关动态、深度报道、评论的整理小报。
+- [有（冇）用](https://usefulness.zhubai.love/) 由视觉设计师 Abbie 和艺术编辑 Kwen 发起，是一份从我们的角度捕捉生活中「有无用信息」的收藏室。
 
 ---
 

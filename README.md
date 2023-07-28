@@ -22,6 +22,7 @@
 - [The Quibbler](https://thequibbler.zhubai.love/) 这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。
 - [互联网时代的搜商](https://search.zhubai.love/) 关于搜索技巧的种种，做一个互联网淘金者.
 - [机器文摘](https://niupitools.zhubai.love/) 定期分享我看到的有趣的内容（不一定是最新的，但是有意思），因为大部分都与机器有关，所以先叫它“机器文摘（MachineDigest）.
+- [Python潮流周刊](https://pythoncat.substack.com)由豌豆花下猫主理，精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长职业和副业的收入.
 
 
 ---
@@ -61,7 +62,7 @@
 - [我来帮你刷微博](https://papyrus.so/@kqh)  收集整理平時看到的文章報導，讓碎片閱讀稍微有點意義的嘗試
 - [工劳小报](https://newsletter.laborinfocn.com/) 关注当代打工人，双周发布工人、劳动相关动态、深度报道、评论的整理小报。
 - [有（冇）用](https://usefulness.zhubai.love/) 由视觉设计师 Abbie 和艺术编辑 Kwen 发起，是一份从我们的角度捕捉生活中「有无用信息」的收藏室。
-
+- [省流](https://shengliu.substack.com/)有关行业、代码、科研的有趣内容，每个工作日7点左右更新。
 ---
 
 ## 博客推荐

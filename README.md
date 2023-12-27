@@ -63,6 +63,7 @@
 - [工劳小报](https://newsletter.laborinfocn.com/) 关注当代打工人，双周发布工人、劳动相关动态、深度报道、评论的整理小报。
 - [有（冇）用](https://usefulness.zhubai.love/) 由视觉设计师 Abbie 和艺术编辑 Kwen 发起，是一份从我们的角度捕捉生活中「有无用信息」的收藏室。
 - [省流](https://shengliu.substack.com/)有关行业、代码、科研的有趣内容，每个工作日7点左右更新。
+- [人生杠杆](https://arthurxiao.beehiiv.com/) 谈的是那些可以产生复利的杠杆工具，比如内容、工具、投资等。
 ---
 
 ## 博客推荐

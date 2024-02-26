@@ -38,6 +38,7 @@
 - [自说自话](https://landisland.zhubai.love/)	没有记录就没有发生，而记录本身就已是一种反抗。	
 - [生活奇旅](https://weichen.blog/22/) 探寻如何更好地生活。
 - [DecoHack周刊](https://decohack.zhubai.love/) 为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。
+- [数据女孩的中年危机](https://stellaxamy.substack.com/) 每周更新。两个在北美做数据相关工作的博主聊行业趋势，也与各行各业的朋友聊天，了解世界，和听众（读者）一起寻找不一样的可能。博客是[播客](https://open.firstory.me/user/stellaxamy/platforms)的逐字稿。
 
 
 ---

@@ -14,6 +14,7 @@
 
 ## 互联网和科技
 - [科技爱好者周刊](https://github.com/ruanyf/weekly) 从 2018 年初开始发布，记录每周值得分享的科技内容，周五发布。个人觉得是中文科技 Newsletter 最好之一，最喜欢的板块是「本周话题」。
+- [今日三句半](https://www.threenhalf.com/) 每日更新的科技新闻newsletter。由一群长居纽约，多年从事一二级市场投资与科技行业的小伙伴主理，每天精选最重要的科技新闻，编撰呈上。
 - [hackernewsletter](https://hackernewsletter.com/) 每周发布一份关于创业、技术、编程等方面的文章。目前已有 60000 多个用户订阅。
 - [商业内观](https://if.zoepi.online)一份穿梭在人类用思维构建的商业世界里，却一心想去往 2500 年前轴心时代的Newsletter。
 - [产品沉思录](https://index.pmthinking.com) 关注互联网产品的设计与运营等内容，每周精选四篇推荐，并附上独立的观点，以期为你拓展视野的边界。

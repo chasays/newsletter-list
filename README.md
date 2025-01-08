@@ -25,6 +25,7 @@
 - [机器文摘](https://niupitools.zhubai.love/) 定期分享我看到的有趣的内容（不一定是最新的，但是有意思），因为大部分都与机器有关，所以先叫它“机器文摘（MachineDigest）.
 - [Python潮流周刊](https://pythoncat.substack.com)由豌豆花下猫主理，精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长职业和副业的收入.
 - [XR世界导览](https://xreality.zone/zh/tags/newsletter/) 由 XR 基地发起的栏目，这是一个只为你奉上高质量 XR 资讯的期刊，平均半个月一期，希望给你每次的阅读都带来 “爽快” 的阅读体验
+- [Hacking Scale](https://newsletter.betterstack.com/) 份两周一期的通讯，由 Better Stack 的工程师们撰写，内容关于构建和扩展软件。
 
 ---
 ## 成长和思考

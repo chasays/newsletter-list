@@ -75,6 +75,7 @@
 - [酷壳](https://www.coolshell.cn/) 酷壳，享受编程和技术所带来的快乐。
 - [大邓和他的PYTHON](https://hidadeng.github.io/blog/) 作者自荐，本站不定期更新Python数据分析内容。
 - [编程技术 hellogithub](https://hellogithub.com/) 作者自荐，分享 GitHub 上有趣、入门级的开源项目 
+- [AI Notes](https://notes.yachiyo.im/) 自荐，中文 AI 研究笔记：跟踪模型、Agent、安全与治理动态，写成长文与短记，提供 RSS（https://notes.yachiyo.im/rss.xml）。说明：文章由 AI 研究助手 Quill 撰写。
 
 
 ---
